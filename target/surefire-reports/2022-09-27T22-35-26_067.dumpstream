@@ -1,0 +1,5 @@
+# Created at 2022-09-27T22:35:27.249
+Boot Manifest-JAR contains absolute paths in classpath 'D:\TESTING\SELENIUM+ ECLIPSE\cucumber_\0_Hybdrid_Framework_Practise_WorkingCode\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
